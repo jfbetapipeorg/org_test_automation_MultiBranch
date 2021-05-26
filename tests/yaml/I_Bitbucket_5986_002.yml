@@ -1,0 +1,5 @@
+resources:
+  - name: I_Bitbucket_5986_002_PropertyBag
+    type: PropertyBag
+    configuration:
+      test: one

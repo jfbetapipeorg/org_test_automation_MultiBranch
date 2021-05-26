@@ -1,0 +1,5 @@
+resources:
+  - name: I_GitHub_5986_005_PropertyBag
+    type: PropertyBag
+    configuration:
+      test: one
